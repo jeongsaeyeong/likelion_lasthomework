@@ -1,0 +1,10 @@
+ // 아래의 표시가 없으면 다른 scss를 불러오는 게 불가능합니다.
+@charset "UTF-8";
+
+// setting 폴더에서는 이 문서에 쓰일 전반적인 걸 관리합니다. 
+@import "setting/fonts";
+@import "setting/vars";
+@import "setting/resets";
+@import "setting/common";
+
+// section 
