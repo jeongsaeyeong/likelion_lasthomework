@@ -1,0 +1,32 @@
+.section01_wrap {
+    height: 920px;
+
+    .slide {
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        display: flex;
+        height: inherit;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-end;
+    }
+
+    .text {
+        z-index: 1;
+        padding: 100px;
+        color: var(--white);
+
+        h2 {
+            font-weight: 600;
+            font-size: 60px;
+            margin-bottom: 20px;
+        }
+
+        a {
+            border-radius: 500px;
+            padding: 15px 60px;
+            border: 2px solid var(--white);
+        }
+    }
+}

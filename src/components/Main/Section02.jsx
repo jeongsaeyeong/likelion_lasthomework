@@ -32,6 +32,91 @@ const Section02 = () => {
                         </div>
                     </div>
                 </div>
+                <div className="box">
+                    <img src="" alt="" />
+                    <div className="info">
+                        <div className="tage">
+                            <p>공용</p>
+                            <p>컴포트밋</p>
+                            <p>라이프스타일</p>
+                        </div>
+                        <div className="name">
+                            &lt;COLD WAVE&gt; 그래픽 프린트 냉감 티셔츠
+                        </div>
+                        <div className="pay">
+                            <p>49,000원</p>
+                            <img src={Hart} alt="" />
+                        </div>
+                    </div>
+                </div>
+                <div className="box">
+                    <img src="" alt="" />
+                    <div className="info">
+                        <div className="tage">
+                            <p>공용</p>
+                            <p>컴포트밋</p>
+                            <p>라이프스타일</p>
+                        </div>
+                        <div className="name">
+                            &lt;COLD WAVE&gt; 그래픽 프린트 냉감 티셔츠
+                        </div>
+                        <div className="pay">
+                            <p>49,000원</p>
+                            <img src={Hart} alt="" />
+                        </div>
+                    </div>
+                </div>
+                <div className="box">
+                    <img src="" alt="" />
+                    <div className="info">
+                        <div className="tage">
+                            <p>공용</p>
+                            <p>컴포트밋</p>
+                            <p>라이프스타일</p>
+                        </div>
+                        <div className="name">
+                            &lt;COLD WAVE&gt; 그래픽 프린트 냉감 티셔츠
+                        </div>
+                        <div className="pay">
+                            <p>49,000원</p>
+                            <img src={Hart} alt="" />
+                        </div>
+                    </div>
+                </div>
+                <div className="box">
+                    <img src="" alt="" />
+                    <div className="info">
+                        <div className="tage">
+                            <p>공용</p>
+                            <p>컴포트밋</p>
+                            <p>라이프스타일</p>
+                        </div>
+                        <div className="name">
+                            &lt;COLD WAVE&gt; 그래픽 프린트 냉감 티셔츠
+                        </div>
+                        <div className="pay">
+                            <p>49,000원</p>
+                            <img src={Hart} alt="" />
+                        </div>
+                    </div>
+                </div>
+                <div className="box">
+                    <img src="" alt="" />
+                    <div className="info">
+                        <div className="tage">
+                            <p>공용</p>
+                            <p>컴포트밋</p>
+                            <p>라이프스타일</p>
+                        </div>
+                        <div className="name">
+                            &lt;COLD WAVE&gt; 그래픽 프린트 냉감 티셔츠
+                        </div>
+                        <div className="pay">
+                            <p>49,000원</p>
+                            <img src={Hart} alt="" />
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     )

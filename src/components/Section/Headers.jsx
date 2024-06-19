@@ -14,10 +14,10 @@ const Headers = () => {
             </div>
             <Nav />
             <div className="btn_wrap">
-                <img src={Map} alt="Map" />
-                <img src={Search} alt="Search" />
-                <img src={Mypage} alt="Mypage" />
-                <img src={Mybag} alt="Mybag" />
+                <img className='Map' src={Map} alt="Map" />
+                <img className='Search' src={Search} alt="Search" />
+                <img className='Mypage' src={Mypage} alt="Mypage" />
+                <img className='Mybag' src={Mybag} alt="Mybag" />
             </div>
         </div>
     )

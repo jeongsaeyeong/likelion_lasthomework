@@ -87,3 +87,13 @@ select {
     font-size: 16px;
     border: 0;
 }
+
+// 폰트 초기화 
+body,
+button,
+input,
+select,
+table,
+textarea {
+    font-family: var(--mainfont);
+}

@@ -7,7 +7,7 @@ const Footer = () => {
             <div className="logo">
                 <img src={Logo} alt="logo" />
             </div>
-            <div>
+            <div className='box'>
                 <div className="info">
                     <div className="top">
                         <p>매장 안내</p>

@@ -1,0 +1,20 @@
+.footer_wrap {
+    padding: 40px;
+    background-color: var(--white100);
+
+    .logo {
+        margin-bottom: 50px;
+        img {
+            width: 100px;
+        }
+    }
+
+    .box {
+        display: flex;
+        justify-content: center;
+
+        >div {
+            width: 40%;
+        }
+    }
+}
